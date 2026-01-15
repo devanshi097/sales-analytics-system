@@ -1,0 +1,50 @@
+SALES ANALYTICS REPORT
+============================================================
+Generated on: 2026-01-14 23:59:55.968824
+Valid Transactions: 70
+Invalid Transactions: 10
+
+OVERALL SALES SUMMARY
+------------------------------------------------------------
+Total Sales Revenue: ₹3,527,808.00
+
+SALES BY REGION
+------------------------------------------------------------
+South      : ₹889,332.00
+East       : ₹467,969.00
+North      : ₹1,321,605.00
+West       : ₹848,902.00
+
+TOP PRODUCTS BY REVENUE
+------------------------------------------------------------
+LaptopPremium                  ₹2,069,871.00
+Monitor                        ₹493,759.00
+Laptop                         ₹184,329.00
+MonitorLED                     ₹132,104.00
+Webcam                         ₹128,187.00
+
+CUSTOMER SUMMARY (Sample)
+------------------------------------------------------------
+C009 | Total: ₹64,707.00 | Orders: 6 | Avg Order: ₹10,784.50 | Unique Products: 6
+C022 | Total: ₹45,778.00 | Orders: 5 | Avg Order: ₹9,155.60 | Unique Products: 4
+C010 | Total: ₹457,186.00 | Orders: 3 | Avg Order: ₹152,395.33 | Unique Products: 3
+C011 | Total: ₹24,144.00 | Orders: 3 | Avg Order: ₹8,048.00 | Unique Products: 3
+C004 | Total: ₹857,124.00 | Orders: 3 | Avg Order: ₹285,708.00 | Unique Products: 3
+
+DAILY SALES TREND (Sample)
+------------------------------------------------------------
+2024-12-29 : ₹5,608.00
+2024-12-07 : ₹204,912.00
+2024-12-09 : ₹25,339.00
+2024-12-08 : ₹70,383.00
+2024-12-10 : ₹1,550.00
+
+PEAK SALES DAY: 2024-12-02 (₹882,906.00)
+
+LOW PERFORMANCE PRODUCTS
+------------------------------------------------------------
+MouseWireless                  ₹6,784.00
+USB Cable                      ₹7,622.00
+KeyboardMechanical             ₹13,360.00
+Wireless MouseGaming           ₹15,923.00
+WebcamHD                       ₹17,862.00
